@@ -5,10 +5,13 @@ body {
     font-family: montserrat, sans-serif;
 }
 
+
 section {
     display: flex;
     flex-direction: column;
-    background-color: #145275;
+    background: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url(/images/azubi.pic);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 header {
